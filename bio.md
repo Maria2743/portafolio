@@ -8,7 +8,7 @@ Soy originaria de Santa María, una bella comuna ubicada en la provincia de San 
 Actualmente me dedico al estudio de programación en Full Stack JavaScript, realizando un curso en Desafío Latam.
 
 ### ¿Cuál es tu formación?
-He cursado 7 semestres de Ingeniería Informática en la Universidad de Playa Ancha y estoy en proceso de completar mi formación en programación mediante una oportunidad ofrecida por Talento Digital, donde estoy enfocado en especializarme en esta área que me apasiona.
+He cursado 7 semestres de Ingeniería Informática en la Universidad de Playa Ancha y estoy en proceso de completar mi formación en programación mediante una oportunidad ofrecida por Talento Digital, donde estoy enfocada en especializarme en esta área que me apasiona.
 
 ### ¿Cuáles son tus experiencias previas? 
 Si bien no tengo experiencia específica en el área de TI, deberían considerar contactarme porque tengo experiencia comprobada en la optimización de procesos y liderazgo de equipos, tanto en entornos empresariales como personales. Mi capacidad para automatizar procesos críticos y mejorar la trazabilidad ha resultado en reducciones significativas de costos operativos y pérdidas de materias primas. Mi enfoque en comprender los sistemas productivos me permite ofrecer soluciones prácticas y efectivas para mejorar la eficiencia operativa.
