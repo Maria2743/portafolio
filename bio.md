@@ -1,20 +1,20 @@
 ### ¿Quién eres?
-Soy [tu nombre].
+Mi nombre es María Salgado, una profesional apasionada por la tecnología y especializada en el desarrollo fullstack, comprometida con el diseño y la implementación de soluciones innovadoras y eficientes.
 
 ### ¿De dónde eres?
-Soy originario de [tu ciudad/país].
+Soy originaria de Santa María, una bella comuna ubicada en la provincia de San Felipe, en la región de Valparaíso, conocida por sus hermosos paisajes.
 
 ### ¿A qué te dedicas?
-Actualmente me dedico a [tu profesión o área de interés].
+Actualmente me dedico al estudio de programación en Full Stack JavaScript, realizando un curso en Desafío Latam.
 
 ### ¿Cuál es tu formación?
-Me gradué en [tu carrera o especialidad] en [tu universidad].
+He cursado 7 semestres de Ingeniería Informática en la Universidad de Playa Ancha y estoy en proceso de completar mi formación en programación mediante una oportunidad ofrecida por Talento Digital, donde estoy enfocado en especializarme en esta área que me apasiona.
 
 ### ¿Cuáles son tus experiencias previas? 
-[Describe tus experiencias laborales, proyectos destacados, o por qué deberían considerarte si eres nuevo en el campo].
+Si bien no tengo experiencia específica en el área de TI, deberían considerar contactarme porque tengo experiencia comprobada en la optimización de procesos y liderazgo de equipos, tanto en entornos empresariales como personales. Mi capacidad para automatizar procesos críticos y mejorar la trazabilidad ha resultado en reducciones significativas de costos operativos y pérdidas de materias primas. Mi enfoque en comprender los sistemas productivos me permite ofrecer soluciones prácticas y efectivas para mejorar la eficiencia operativa.
 
 ### ¿Cómo y a través de qué medios te pueden contactar?
 Puedes contactarme a través de:
-- Email: [tu correo electrónico]
-- LinkedIn: [tu perfil de LinkedIn]
-- Otros medios: [añade cualquier otro medio de contacto que prefieras]
+- Email: maria.salgado2743@gmail.com
+- LinkedIn: https://www.linkedin.com/in/maria-salgado-salgado-76587a23b/
+- Whatsapp: +56 9 62562046
